@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PokeViewer</string>
+    <string name="placeholder">Enter a Pokemon name...</string>
+    <string name="pokemontitle">Pokemon</string>
+    <string name="pokemontypes">Type:</string>
+    <string name="shinytitle">Shiny</string>
+    <string name="defaultid">#474</string>
+    <string name="stats">HP:\nATK:\nDEF:\nSPA:\nSPD:\nSPE:</string>
+</resources>
